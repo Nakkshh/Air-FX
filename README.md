@@ -69,21 +69,3 @@ python air_fx.py
 Zoom will auto-adjust based on the distance between index fingertip and PIP joint.
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome! If you'd like to contribute or suggest new gesture features, feel free to open an issue or fork the repo.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ✨ Credits
-
-Developed by [@Nakkshh](https://github.com/Nakkshh) — inspired by touchless control and computer vision advancements.
-
----
